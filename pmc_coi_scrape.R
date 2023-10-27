@@ -1,6 +1,6 @@
 
 # PMC Full Text Download and Disclosure Extraction ------------------------
-# This script downloads target full text articles indexed on PUbMed Central and extracts disclosure staements 
+# This script downloads target full text articles indexed on PubMed Central and extracts disclosure staements 
 
 
 
