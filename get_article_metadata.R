@@ -1,5 +1,5 @@
 
-# COIPoND Data Collection -------------------------------------------------
+# COIPonD Data Collection -------------------------------------------------
 
 # This file provides the key assets for PubMed search queries and article metadata collection. 
 
@@ -31,6 +31,7 @@ pmsearch <- function(x){
 
 
 # Get Article Meta Data ---------------------------------------------------
+# Link to PubMed XML schema: https://www.nlm.nih.gov/bsd/licensee/data_elements_doc.html
 
 # Define Extract Text Function 
 extract_text <- function(x){
